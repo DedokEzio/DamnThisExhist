@@ -1,0 +1,10 @@
+- type: entity
+  parent: ClothingUniformBase
+  id: ClothingUniformJumpsuitKimonoTakasugi
+  name: takasugi kimono
+  description: traditional chinese clothing, this version wears Takasugi Shinske
+  components:
+  - type: Sprite
+    sprite: /Uploaded/kimonotakasugi.rsi
+  - type: Clothing
+    sprite: /Uploaded/kimonotakasugi.rsi
